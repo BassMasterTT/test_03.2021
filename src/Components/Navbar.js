@@ -6,16 +6,20 @@ function Navbar() {
     <div>
       <header className="header">
         <nav className="container">
-          <img src="" alt="logo" className="logopng" />
+          {/* <img src=".//logo-bbam.png" alt="logo" className="logopng" /> */}
           <div className="title">
             <p>
-              <span id="span1">Macau</span><br/> British Chamber of Commerce
+              <span id="span1">Macau</span>
+              <br /> British Chamber of Commerce
             </p>
           </div>
           <ul className="list">
-            <li className="li">hello</li>
-            <li className="li">hello</li>
-            <li className="li">hello</li>
+            <li className="li">HELLO</li>
+            <li className="li">HELLO</li>
+            <li className="li">HELLO</li>
+            <li className="li">HELLO</li>
+            <li className="li">HELLO</li>
+            <li className="li">HELLO</li>
           </ul>
         </nav>
       </header>
